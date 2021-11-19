@@ -1,0 +1,27 @@
+Созданы директории и файлы: 
+
+Каталог [ res ] 
+\Users\user\IdeaProject\gameInstalling\res
+Каталог [ savegames ] 
+\Users\user\IdeaProject\gameInstalling\savegames
+Каталог [ temp ] 
+\Users\user\IdeaProject\gameInstalling\temp
+Каталог [ test ] 
+\Users\user\IdeaProject\gameInstalling\src\test
+Каталог [ main ] 
+\Users\user\IdeaProject\gameInstalling\src\main
+Каталог [ drawables ] 
+\Users\user\IdeaProject\gameInstalling\res\drawables
+Каталог [ vectors ] 
+\Users\user\IdeaProject\gameInstalling\res\vectors
+Каталог [ icons ] 
+\Users\user\IdeaProject\gameInstalling\res\icons
+Файл ( temp.txt ) 
+\Users\user\IdeaProject\gameInstalling\temp\temp.txt
+Файл ( Utils.java ) 
+\Users\user\IdeaProject\gameInstalling\src\main\Utils.java
+Файл ( Main.java ) 
+\Users\user\IdeaProject\gameInstalling\src\main\Main.javaСозданы директории: 
+
+Каталог [ savings ] 
+\Users\user\IdeaProject\gameInstalling\savings
